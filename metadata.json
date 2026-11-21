@@ -1,0 +1,6 @@
+{
+  "name": "Sheela Dang Mental Health Care Centre",
+  "description": "Official website for Sheela Dang Mental Health Care Centre. Evidence-based psychotherapy, trauma and grief recovery, PTSD interventions, and clinical psychology consultations in Mumbai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
